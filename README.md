@@ -29,4 +29,3 @@ English (fluent) / Spanish (native-level, 4+ years in Equatorial Guinea) / Hindi
 
 - Email: rahulchandravanshi899@gmail.com
 - LinkedIn: [linkedin.com/in/rahul-chandravanshi](https://www.linkedin.com/in/rahul-chandravanshi/)
-- Agency: [BrandCoreDigital](https://brandcoredigital.com) (founded 2024, New Delhi)

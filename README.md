@@ -1,6 +1,6 @@
 # Hey, I'm Rahul
 
-Language Production Lead at Lionbridge (Mumbai), working on clinical trial document localization for Merck/MSD across ES-XL, PT-BR, and FR-CA.
+Language Production Lead at Lionbridge (Mumbai), working on clinical trial document localization for Merck/MSD across multiple languages.
 
 I build tools that automate manual QA and operations workflows for localization teams. Most of what you'll find here are things I built to solve real problems on the job: missed tracked changes, inconsistent reference reuse, manual task allocation that ate hours every shift, and QA processes that didn't scale to 50+ linguists.
 

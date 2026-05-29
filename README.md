@@ -1,26 +1,21 @@
 # Hey, I'm Rahul
 
-Language Production Lead at Lionbridge (Mumbai), working on clinical trial document localization for Merck/MSD across ES-XL, PT-BR, and FR-CA.
-
-I build tools that automate manual QA and operations workflows for localization teams. Most of what you'll find here are things I built to solve real problems on the job: missed tracked changes, inconsistent reference reuse, manual task allocation that ate hours every shift, invoice scope validation across multiple suppliers, and QA processes that didn't scale to 50+ linguists.
+I build tools that automate manual QA and operations workflows for localization teams. Most of what's here started as a fix for a real problem on the job: missed tracked changes, inconsistent reference reuse, task allocation that ate hours every shift, invoice scope validation across suppliers, and QA processes that didn't scale past 50+ reviewers — across regulated/clinical content and multiple language pairs (ES-XL, PT-BR, FR-CA).
 
 ## What I build
 
-**Browser-based operations tools** (HTML/JS, runs locally, no server needed):
-- [RCC v16](https://github.com/zooman33/rcc-v16) — Reference Compliance Checker for translation files · [Live Demo](https://zooman33.github.io/rcc-v16/)
-- [TC QA Checker](https://github.com/zooman33/tc-qa-checker) — Tracked changes verification with DOCX comment injection · [Live Demo](https://zooman33.github.io/tc-qa-checker/)
-- [TaskAlloc v2](https://github.com/zooman33/taskalloc-v2) — Shift-aware task allocation for 50+ employees · [Live Demo](https://zooman33.github.io/taskalloc-v2/)
-- [ScopeGuard](https://github.com/zooman33/scopeguard) — Invoice-vs-brief scope validation for multi-supplier translation PM · [Live Demo](https://zooman33.github.io/scopeguard/)
-
-**AI-powered QA skills** (built on Anthropic Claude):
-- [Claude Localization Skills](https://github.com/zooman33/claude-localization-skills) — 15+ custom Claude skills for bilingual QA, glossary review, source-text analysis, back-translation QA, and more
-
-**Automation scripts** (Python):
+**Localization QA & operations tools (Python):**
+- [reference-consistency-checker](https://github.com/zooman33/reference-consistency-checker) — checks a translation for consistency against approved reference material
+- [tc-qa-checker](https://github.com/zooman33/tc-qa-checker) — tracked-changes verification for bilingual DOCX files
+- [task-allocator](https://github.com/zooman33/task-allocator) — shift-aware task allocation for a multi-skill, multi-language team
 - [BOE Processor](https://github.com/zooman33/boe-processor) — ICEGATE Bill of Entry automation with Google Drive sync
+
+**Browser-based tools (HTML/JS):**
+- [ScopeGuard](https://github.com/zooman33/scopeguard) — invoice-vs-brief scope validation for multi-supplier translation PM · [Live Demo](https://zooman33.github.io/scopeguard/)
 
 ## Tech I use
 
-Python, JavaScript, HTML/CSS, Anthropic Claude (Max + Claude Code), XLZ/XLIFF/DOCX/PDF processing (PyMuPDF, python-docx), Power Automate, Excel automation, Git, memoQ/XTM/Trados Logoport
+Python, JavaScript, HTML/CSS, XLZ/XLIFF/DOCX/PDF processing (PyMuPDF, python-docx, openpyxl), Excel automation, Git, memoQ/XTM/Trados
 
 ## Languages I speak
 
